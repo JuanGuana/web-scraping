@@ -10,10 +10,8 @@
   "author": "Juan C. Guana",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "got": "^10.4.0",
+    "cheerio": "1.0.0-rc.5",
     "request": "2.88.2",
-    "request-promise": "4.2.6",
-    "table-scraper": "^1.0.3"
+    "request-promise": "4.2.6"
   }
 }
